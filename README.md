@@ -11,3 +11,19 @@ compile 'com.nineoldandroids:library:2.4.0'
 使用开源下拉框架：ultraPullToRefash
 
 演示请看screenShot
+
+## About Me
+
+#### YaphetZhao
+
+Email:yaphetzhao@gmail.com
+
+Email_CN:yaphetzhao@foxmail.com
+
+GitHub:http://github.com/YaphetZhao/
+
+QQ:11613371
+
+CSDN_Blog:http://blog.csdn.net/yaphetzhao
+
+Tel:Secret
