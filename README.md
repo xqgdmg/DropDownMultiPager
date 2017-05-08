@@ -11,6 +11,7 @@ compile 'com.nineoldandroids:library:2.4.0'
 使用开源下拉框架：ultraPullToRefash
 
 演示请看screenShot
+![image](http://github.com/xqgdmg/DropDownMultiPager/blob/master/screenShot/Screenshot_20161215-153347.jpg)
 https://github.com/xqgdmg/DropDownMultiPager/blob/master/screenShot/Screenshot_20161215-153347.jpg?raw=true
 
 ## About Me
